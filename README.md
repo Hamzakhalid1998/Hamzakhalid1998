@@ -8,7 +8,7 @@
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
@@ -21,7 +21,7 @@
 - ⚡ Strong in **JavaScript & React** for building interactive web apps.  
 - 🌱 Currently exploring **Next.js & TypeScript**.  
 - 💡 Love writing clean, scalable, and maintainable code.  
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hamza-khalid-845b7b266)  
 
 ---
 
