@@ -26,28 +26,26 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamzakhalid1998&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhalid1998&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-
----
 
 ## 🚀 Projects  
 
-- 🎬 **Netflix Clone** – Landing page built with HTML, CSS & Tailwind.  
-- 🌐 **Portfolio Website** – Personal portfolio showcasing my skills & projects.  
-- 📩 **EmailJS Contact Form** – A working contact form with EmailJS integration.  
-- 💻 **Responsive Web Designs** – Multiple layouts optimized for all devices.  
+- 🏗️ **ARC Holdings Website** – Built a responsive multi-page website using **React** and **Tailwind CSS**.  
+- 👤 **Personal Portfolio** – Developed a modern portfolio website using **React** and **Tailwind CSS** to showcase projects and skills.  
+- 🧠 **Intellix Soft Website** – Created a clean, responsive business website using **JavaScript** and **Tailwind CSS**.  
+- 📊 **Employee Dashboard** – Built an interactive employee dashboard using **JavaScript** and **Tailwind CSS**, focusing on UI and usability.
 
 ---
 
 ## 🤝 Connect With Me  
 <p>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hamzakhalid1998">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-khalid-845b7b266">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hamza_khalid69@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
