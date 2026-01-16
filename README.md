@@ -21,7 +21,8 @@
 - ⚡ Strong in **JavaScript & React** for building interactive web apps.  
 - 🌱 Currently exploring **Next.js & TypeScript**.  
 - 💡 Love writing clean, scalable, and maintainable code.  
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hamza-khalid-845b7b266)  
+- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-khalid-845b7b266)
+  
 
 ---
 
